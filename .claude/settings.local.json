@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__ide__executeCode",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push)",
+      "Bash(git reset:*)",
+      "Bash(pip install:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}

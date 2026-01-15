@@ -1,0 +1,12 @@
+# Large data files
+llm-from-scratch/*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
