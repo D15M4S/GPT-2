@@ -1,5 +1,9 @@
 # Large data files
 llm-from-scratch/*.txt
+data/
+
+# Tool config
+.omc/
 
 # Python
 __pycache__/
